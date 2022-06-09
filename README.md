@@ -1,7 +1,5 @@
 
-<h1>👋Hello World, I'm Sonu!
-<!--   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width: 100%;"> -->
-</h1>
+<h1 align="center">👋Hello World, I'm Sonu!</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonugunhere&label=Profile%20views&color=0e75b6&style=flat" alt="sonugunhere" /></p>
 
