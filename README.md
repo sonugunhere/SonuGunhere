@@ -10,7 +10,7 @@
 <a href="https://twitter.com/gunheresonu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gunheresonu" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sonugunhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonugunhere" height="30" width="40" /></a>
 <a href="https://fb.com/er sonu gunhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="er sonu gunhere" height="30" width="40" /></a>
-<a href="https://instagram.com/er_sonugunhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er_sonugunhere" height="30" width="40" /></a>
+<a href="https://instagram.com/__ersonu__.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="er_sonugunhere" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
